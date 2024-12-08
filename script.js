@@ -18,6 +18,7 @@ const cards = [
     "Карточка-4",
     "Карточка-5"
 ];
+
 console.log(cards)
 // видаляємо (по індексу), метод indexOf()
 const cardsIndex = cards.indexOf("Карточка-3");
